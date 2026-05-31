@@ -1,0 +1,5 @@
+print("Hello World")
+name=("Abhijeet")
+print(name)
+print("mission :To built AGI")
+print("status: loading.....")

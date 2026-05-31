@@ -1,0 +1,6 @@
+days_completed=int(input("enter number of days completed: "))
+print("AI Journey Progress Tracker")
+print("---------------------------")
+print("days completed: ",days_completed,"/21")
+print("CURRENT PHASE : Python + API")
+print("NEXT GOAL: Master APIs")
